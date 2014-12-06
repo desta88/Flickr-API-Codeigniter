@@ -8,10 +8,10 @@ To see other functions can be seen in the library phpFlickr
 
 <h1>Setup</h1>
 <blockquote>
-	1. Open flickr config at application/config/flickr.php
+	1. Open flickr config at application/config/flickr.php<br>
 	2. Insert your flickr_api_key & flickr_secret_api_key 
 	   (If your application need authentication like upload, replace, delete, etc, 
 	   please insert your token <a href="https://www.flickr.com/services/api/auth.spec.html">Flickr Authentication API</a>)
 </blockquote>
 
-<strong><a href="http://api.mdesain.com/Flickr-API-Codeigniter/">Example api.mdesain.com/Flickr-API-Codeigniter</a></strong>
+<strong>Example: <a href="http://api.mdesain.com/Flickr-API-Codeigniter/">api.mdesain.com/Flickr-API-Codeigniter</a></strong>
