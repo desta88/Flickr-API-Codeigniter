@@ -9,7 +9,7 @@
 | They key you recieved from flickr to use their API
 |
 */
-$config['flickr_api_key'] = "37a2f38b17cc62ad21b731636336efec";
+$config['flickr_api_key'] = "Your Api Key";
 
 /*
 |--------------------------------------------------------------------------
@@ -19,7 +19,7 @@ $config['flickr_api_key'] = "37a2f38b17cc62ad21b731636336efec";
 | They secret key you recieved from flickr to use their API
 |
 */
-$config['flickr_secret_api_key'] = "583d93d1c5f18844";
+$config['flickr_secret_api_key'] = "Your Secret Key";
 
 /*
 |--------------------------------------------------------------------------
@@ -29,7 +29,7 @@ $config['flickr_secret_api_key'] = "583d93d1c5f18844";
 | They token you recieved from flickr to use their API
 |
 */
-$config['flickr_token'] = "72157648888527347-f98d0e4472044bcf";
+$config['flickr_token'] = "Your Token";
 
 /* End of file flickr.php */
 /* Location: ./application/config/flickr.php */
