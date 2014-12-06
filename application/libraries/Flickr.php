@@ -11,7 +11,7 @@ class Flickr
 
     public $f;
 
-    function Flickr()
+    public function Flickr()
     {
         // Get CI Instance
         $this->ci =& get_instance();
@@ -26,7 +26,7 @@ class Flickr
 
         // Create flickr object
         $this->f = new phpFlickr($this->api_key, $this->secret_api_key, TRUE);
-		if($this->token != NULL)
+		if(isset($this->token))
 		{
 			$this->f->setToken($this->token);
 		}
