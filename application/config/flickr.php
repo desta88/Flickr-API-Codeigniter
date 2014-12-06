@@ -27,9 +27,10 @@ $config['flickr_secret_api_key'] = "Your Secret Key";
 |--------------------------------------------------------------------------
 |
 | They token you recieved from flickr to use their API
+| NOTE : This is only if your application need authentication like upload, replace, delete, etc
 |
 */
-$config['flickr_token'] = "Your Token";
+$config['flickr_token'] = NULL;
 
 /* End of file flickr.php */
 /* Location: ./application/config/flickr.php */

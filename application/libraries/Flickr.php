@@ -26,8 +26,10 @@ class Flickr
 
         // Create flickr object
         $this->f = new phpFlickr($this->api_key, $this->secret_api_key, TRUE);
-		$this->f->setToken($this->token);
-		
+		if($this->token != NULL)
+		{
+			$this->f->setToken($this->token);
+		}
     }
 }
 
