@@ -20,7 +20,7 @@
         </li>
         <?php } ?>
 	</ul>
-    <div align="center">Photos by Riza Nugraha</strong>
+    <div align="center">Photos by Riza Nugraha</div>
 
 </body>
 </html>
