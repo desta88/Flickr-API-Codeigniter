@@ -1,4 +1,4 @@
-Flickr API - phpFlickr & Codeigniter
+[Flickr API - phpFlickr & Codeigniter](https://github.com/desta88/Flickr-API-Codeigniter)
 ======================
 
 phpFlickr for Codeigniter
